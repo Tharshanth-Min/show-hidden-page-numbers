@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div
       style={{
-        background: "#ffff",
+        background: "red",
         height: "100vh",
         margin: "auto",
         width: "70%",
